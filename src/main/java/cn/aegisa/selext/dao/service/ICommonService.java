@@ -1,8 +1,8 @@
-package cn.aegisa.project.dao.service;
+package cn.aegisa.selext.dao.service;
 
 
-import cn.aegisa.project.dao.spi.ICommonDao;
-import cn.aegisa.project.dao.spi.IMapper;
+import cn.aegisa.selext.dao.spi.ICommonDao;
+import cn.aegisa.selext.dao.spi.IMapper;
 
 import java.util.List;
 

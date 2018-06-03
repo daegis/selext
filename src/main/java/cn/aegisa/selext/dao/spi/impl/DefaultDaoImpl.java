@@ -1,11 +1,11 @@
-package cn.aegisa.project.dao.spi.impl;
+package cn.aegisa.selext.dao.spi.impl;
 
-import cn.aegisa.project.dao.jdbc.handler.RowBeanMapper;
-import cn.aegisa.project.dao.spi.ICommonDao;
-import cn.aegisa.project.dao.utils.Id;
-import cn.aegisa.project.dao.utils.PageFinder;
-import cn.aegisa.project.dao.utils.ParameterUtils;
-import cn.aegisa.project.dao.utils.Query;
+import cn.aegisa.selext.dao.jdbc.handler.RowBeanMapper;
+import cn.aegisa.selext.dao.spi.ICommonDao;
+import cn.aegisa.selext.dao.utils.Id;
+import cn.aegisa.selext.dao.utils.PageFinder;
+import cn.aegisa.selext.dao.utils.ParameterUtils;
+import cn.aegisa.selext.dao.utils.Query;
 import org.apache.ibatis.session.ResultHandler;
 import org.apache.ibatis.session.RowBounds;
 import org.mybatis.spring.SqlSessionTemplate;

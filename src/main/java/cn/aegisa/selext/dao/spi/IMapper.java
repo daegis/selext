@@ -1,8 +1,8 @@
-package cn.aegisa.project.dao.spi;
+package cn.aegisa.selext.dao.spi;
 
-import cn.aegisa.project.dao.utils.Id;
-import cn.aegisa.project.dao.utils.PageFinder;
-import cn.aegisa.project.dao.utils.Query;
+import cn.aegisa.selext.dao.utils.Id;
+import cn.aegisa.selext.dao.utils.PageFinder;
+import cn.aegisa.selext.dao.utils.Query;
 
 import java.util.List;
 import java.util.Map;

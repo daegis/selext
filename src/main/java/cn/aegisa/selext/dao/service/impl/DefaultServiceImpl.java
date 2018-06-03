@@ -1,9 +1,9 @@
-package cn.aegisa.project.dao.service.impl;
+package cn.aegisa.selext.dao.service.impl;
 
-import cn.aegisa.project.dao.service.ICommonService;
-import cn.aegisa.project.dao.utils.Id;
-import cn.aegisa.project.dao.utils.PageFinder;
-import cn.aegisa.project.dao.utils.Query;
+import cn.aegisa.selext.dao.service.ICommonService;
+import cn.aegisa.selext.dao.utils.Id;
+import cn.aegisa.selext.dao.utils.PageFinder;
+import cn.aegisa.selext.dao.utils.Query;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 

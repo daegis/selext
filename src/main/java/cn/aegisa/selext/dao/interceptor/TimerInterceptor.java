@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.interceptor;
+package cn.aegisa.selext.dao.interceptor;
 
 import org.apache.ibatis.cache.CacheKey;
 import org.apache.ibatis.executor.Executor;

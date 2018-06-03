@@ -1,9 +1,9 @@
-package cn.aegisa.project.dao.spi.pager;
+package cn.aegisa.selext.dao.spi.pager;
 
-import cn.aegisa.project.dao.spi.ICommonDao;
-import cn.aegisa.project.dao.spi.IPager;
-import cn.aegisa.project.dao.utils.Id;
-import cn.aegisa.project.dao.utils.ParameterUtils;
+import cn.aegisa.selext.dao.spi.ICommonDao;
+import cn.aegisa.selext.dao.spi.IPager;
+import cn.aegisa.selext.dao.utils.Id;
+import cn.aegisa.selext.dao.utils.ParameterUtils;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.List;

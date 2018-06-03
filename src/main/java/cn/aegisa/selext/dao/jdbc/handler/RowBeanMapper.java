@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.jdbc.handler;
+package cn.aegisa.selext.dao.jdbc.handler;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

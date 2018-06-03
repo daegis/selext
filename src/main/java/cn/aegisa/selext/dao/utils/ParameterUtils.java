@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.utils;
+package cn.aegisa.selext.dao.utils;
 
 
 import lombok.extern.slf4j.Slf4j;

@@ -1,6 +1,6 @@
-package cn.aegisa.project.dao.service.impl;
+package cn.aegisa.selext.dao.service.impl;
 
-import cn.aegisa.project.dao.spi.ICommonDao;
+import cn.aegisa.selext.dao.spi.ICommonDao;
 
 /**
  * @author XianYingda

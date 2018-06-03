@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.utils;
+package cn.aegisa.selext.dao.utils;
 
 import java.io.Serializable;
 

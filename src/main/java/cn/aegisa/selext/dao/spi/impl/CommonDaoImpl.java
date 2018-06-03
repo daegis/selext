@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.spi.impl;
+package cn.aegisa.selext.dao.spi.impl;
 
 import org.mybatis.spring.SqlSessionTemplate;
 

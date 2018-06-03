@@ -1,4 +1,4 @@
-package cn.aegisa.project.dao.spi;
+package cn.aegisa.selext.dao.spi;
 
 import java.util.List;
 
